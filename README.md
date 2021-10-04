@@ -1,7 +1,6 @@
 General explanation of the program:
 
-1.Detector match the MAC of the sender IP for sender authentication:
-
+1.Detector match the MAC of the sender IP for sender authentication
   A. SNIFFING on the same network card accessing the external network.
   B. Capture packets from the network card.
   C. Verify the data (IP and MAC ADDRESS) with queries to the sender IP.
