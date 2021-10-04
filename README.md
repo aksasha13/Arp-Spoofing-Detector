@@ -1,5 +1,5 @@
 <b><h4>General explanation of the program:</h4></b>
-
+<h5>
 1.Detector match the MAC of the sender IP for sender authentication
   <br>
   &nbsp;&nbsp;&nbsp;A. SNIFFING on the same network card accessing the external network.
@@ -15,3 +15,4 @@
 4.Turn off the network card services of the attacked computer in order to avoid exposing sensitive information.
 <br>
 5.WRITE EVENT LOG into WINDOWS EVENT LOGS for a future analysis.
+</h5>
