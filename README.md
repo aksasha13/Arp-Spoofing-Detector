@@ -1,5 +1,5 @@
 <b><h4>General explanation of the program:</h4></b>
-<br>
+
 1.Detector match the MAC of the sender IP for sender authentication
   <br>
   &nbsp;&nbsp;&nbsp;A. SNIFFING on the same network card accessing the external network.
