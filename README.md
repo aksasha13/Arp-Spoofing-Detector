@@ -1,4 +1,6 @@
-                                     ![image](https://user-images.githubusercontent.com/75273945/135918066-1efcc0cb-71ce-43b1-9818-31c971a8a775.png)
+<center>
+![image](https://user-images.githubusercontent.com/75273945/135918066-1efcc0cb-71ce-43b1-9818-31c971a8a775.png)
+</center>
 <b><h3>General explanation of the program:</h3></b>
 <h5>
 1.Detector match the MAC of the sender IP for sender authentication
