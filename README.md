@@ -1,4 +1,4 @@
-General explanation of the program:
+<b><h1>General explanation of the program:</h1></b>
 <br>
 1.Detector match the MAC of the sender IP for sender authentication
   <br>
